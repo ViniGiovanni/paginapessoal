@@ -48,18 +48,19 @@ body{
 #efeitos h1{
   
   position: relative;
-  top: 40px;
   
+  top: 25px;
+  font-size: 1vw;
+  font-weight: 500;
   color: #ffffff;
-  font-size: 1.2em;
-  font-weight: 500
 }
+
 
 #efeitos h2{
   position: relative;
   
-  bottom: 70px;
-  font-size: 1.1em;
+  bottom: 50px;
+  font-size: 1vw;
   font-weight: 500;
   color: #ffffff;
 }
@@ -218,15 +219,15 @@ ol, li {
 }
 
 .carousel__slide:nth-child(1) {
-  background-color: #1f18183a;
-/*   background-image: url("./imagens/Essa\ página\ pessoal\ é\ um\ projeto.gif "); */
+  background-color: hsla(0, 6%, 7%, 0.909);
+  /* background-image: url("./imagens/SITE.png") */
 }
 .carousel__slide:nth-child(2) {
   background-color: #1f18183a;
   /* background-image: url("./imagens/fotoP.png "); */
 }
 .carousel__slide:nth-child(3) {
-  background-color: #1f18183a;
+  background-color: hsla(0, 6%, 7%, 0.909);
   /* background-image: url("./imagens/fotoP.png "); */
 }
 .carousel__slide:nth-child(4) {
