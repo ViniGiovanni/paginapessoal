@@ -219,7 +219,7 @@ ol, li {
 
 .carousel__slide:nth-child(1) {
   background-color: #1f18183a;
-  background-image: url("./imagens/Essa\ página\ pessoal\ é\ um\ projeto.gif ");
+/*   background-image: url("./imagens/Essa\ página\ pessoal\ é\ um\ projeto.gif "); */
 }
 .carousel__slide:nth-child(2) {
   background-color: #1f18183a;
